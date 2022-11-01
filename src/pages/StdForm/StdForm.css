@@ -1,0 +1,5 @@
+.formBackground {
+    min-height: 103.2vh;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgb(0, 0, 0) 0%, rgb(90, 90, 90) 100%);
+}
